@@ -31,7 +31,7 @@ Submissions will be evaluated based on Accuracy.
 
 - SVM achieved an accuracy of approximately 0.49645 with the best configuration.
 - Random Forest achieved an accuracy of approximately 0.408 with the best configuration.
-- CNN outperformed other models with a training accuracy of around 0.977 and a public score of 0.879.
+- CNN outperformed other models with a training accuracy of around 0.977 and a public score of 0.9.
 
 ### Discussion
 
