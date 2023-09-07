@@ -1,4 +1,4 @@
-# Audio-Intent-Detection
+# Audio Intent Detection
 ### Problem Description
 
 **Intent detection** is a critical task in natural language processing (NLP) and speech recognition, where the goal is to identify the underlying intention or purpose of a spoken or written statement. Accurate intent detection is crucial for voice assistants and audio-based applications as it enables them to understand and respond appropriately to user requests and commands.
